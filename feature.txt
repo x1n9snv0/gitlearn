@@ -1,1 +1,2 @@
 There are some new functions.
+Added a new function.
