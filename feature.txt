@@ -1,2 +1,3 @@
 There are some new functions.
 And I added some new functions too.
+Added a new function.
